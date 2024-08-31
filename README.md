@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Discord : nightnotdark**
+- 📫 How to reach me **:**
 
-<h3 align="left">Connect with me:</h3>
+**Discord : nightnotdark**
+
+
 <p align="left">
 </p>
 
