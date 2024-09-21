@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshil</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Calculator**
+- 🔭 I’m currently working on **Unknown**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and Rust**
 
 - 📫 How to reach me :
   
